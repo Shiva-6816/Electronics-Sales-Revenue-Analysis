@@ -448,9 +448,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Power Query, DAX, Explorat
 
 ### 🔗 Connect With Me
 
-- GitHub: [Shiva-6816](https://github.com/Shiva-6816)
-- LinkedIn: Shiva Prasad Aroori
-- Portfolio: My Portfolio
+- **GitHub:** [Shiva-6816](https://github.com/Shiva-6816)
+- **LinkedIn:** [Shiva Prasad Aroori](https://www.linkedin.com/in/shivaprasadaroori)
 
 ---
 
