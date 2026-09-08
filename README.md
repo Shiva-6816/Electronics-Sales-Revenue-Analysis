@@ -4,10 +4,13 @@ An end-to-end **Data Analytics project** where I used **Python and Power BI** to
 
 ---
 
-
 ## 🖼️ Final Dashboard
 
-![Electronics Sales & Revenue Analysis Dashboard](Electronics_Sales_Analytics_Dashboard.png)
+<p align="center">
+  <img src="dashboard/Electronics%20Sales%20Analytics%20Dashboard.png" 
+       alt="Electronics Sales & Revenue Analysis Dashboard"
+       width="100%">
+</p>
 
 ---
 
